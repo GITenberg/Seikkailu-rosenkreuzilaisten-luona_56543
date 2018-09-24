@@ -1,0 +1,25 @@
+_repo: Seikkailu-rosenkreuzilaisten-luona_56543
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ignatius, Kyllikki
+    gutenberg_agent_id: '48909'
+    url: http://www.gutenberg.org/2009/agents/48909
+creator:
+  author:
+    agent_name: Hartmann, Franz
+    gutenberg_agent_id: '48908'
+    url: http://www.gutenberg.org/2009/agents/48908
+description: ''
+gutenberg_issued: '2018-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56543'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Seikkailu rosenkreuziläisten luona
+url: http://www.gutenberg.org/ebooks/56543
